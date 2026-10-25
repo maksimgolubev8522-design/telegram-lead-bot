@@ -37,6 +37,7 @@ pip install pyTelegramBotAPI pandas openpyxl python-dotenv
 Отправьте команду /newbot
 Придумайте имя и username для бота
 Скопируйте полученный токен
+
 ### 3. Настройка токена
 Создайте в корне проекта файл .env и добавьте в него:
 'BOT_TOKEN=ваш_токен_от_BotFather'
